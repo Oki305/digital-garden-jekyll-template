@@ -1,0 +1,2 @@
+# Cumulative Absolute Frequency ($f_c$)
+Shows you the totals up to a certain point. More specifically, it is the sum of the class and all classes bellow it in a frequency distribution. So you get it by adding up previous absolute frequencies.

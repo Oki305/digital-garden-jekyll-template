@@ -1,0 +1,2 @@
+# Absolute Frequency ($f$)
+The number of times that a value appears. It is represented as where the subscript represents each of the values. The sum of the absolute frequencies is the total number of data.

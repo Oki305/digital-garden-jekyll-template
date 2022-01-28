@@ -1,0 +1,2 @@
+# Scale of Reason
+Exactly the same as the [[Interval Scale]] except that ==the 0 on the scale means "does not exist"==. For example, a weight of zero does not exist. An age of zero does not exist. Temperature is not a Scale of Reason though, since a temperature of 0° is still a temperature.

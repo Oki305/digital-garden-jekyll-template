@@ -1,0 +1,2 @@
+# Non-Probabilistic Sample
+Nonprobability sampling does not involve random selection. sometimes in applied social research there may be circumstances where its not feasible, practical, or theoretically sensible to do random sampling, therefore, nonprobability applies.
